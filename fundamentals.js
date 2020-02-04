@@ -1,14 +1,10 @@
-
 /**
  * Variable and Data type
  */
-
 // tslint:disable
-
 /**
  * var vs let/const
  */
-
 // function main() {
 //   console.log("START");
 //   if (true) {
@@ -20,21 +16,16 @@
 //   console.log(lang);
 //   console.log(target);
 // }
-
-
 function main() {
-  var x = 5;
-  console.log(x);
-  var x = 10;
-  console.log(x);
-
-   let y = 55;
-  console.log(y);
-  let z = 100;
-  console.log(z);
+    var x = 5;
+    console.log(x);
+    var x = 10;
+    console.log(x);
+    var y = 55;
+    console.log(y);
+    var z = 100;
+    console.log(z);
 }
-
-
 /*
 function main() {
   console.log(x);
@@ -44,7 +35,6 @@ function main() {
   let y = 10;
 }
  */
-
 /**
  * Data types
  */
@@ -95,9 +85,6 @@ function main() {
   }
 }
  */
-
 // function main() {}
-
 // tslint:enable
-
 main();
